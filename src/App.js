@@ -28,7 +28,7 @@ function App() {
           <a href="https://github.com/mcquesten" target="_blank" rel="noreferrer">
             GitHub
           </a>
-          <a href="https://linkedin.com/in/mcquesten" target="_blank" rel="noreferrer">
+          <a href="https://linkedin.com/in/richard-mcquesten/" target="_blank" rel="noreferrer">
             LinkedIn
           </a>
           <a href="mailto:rmcquest@asu.edu">Email</a>
