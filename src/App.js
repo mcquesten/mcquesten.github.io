@@ -69,7 +69,7 @@ function App() {
         <div className="project">
           <h3>Binary Analysis Coursework</h3>
           <p>
-            Used IDA and Ghidra to analyze compiled binaries, reconstruct
+            Used IDA, Ghidra, and Binary Ninja to analyze compiled binaries, reconstruct
             control flow, identify functions, and understand low-level program
             behavior through static analysis.
           </p>
